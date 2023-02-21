@@ -1,0 +1,9 @@
+Why the main() method in Java is always static?
+
+Java main() method is always static, so that compiler can call it without the creation of an object or before the creation of an object of the class.
+
+*In any Java program, the main() method is the starting point from where compiler starts program execution. So, the compiler needs to call the main() method.
+*If the main() is allowed to be non-static, then while calling the main() method JVM has to instantiate its class.
+*While instantiating it has to call the constructor of that class, There will be ambiguity if the constructor of that class takes an argument.
+*Static method of a class can be called by using the class name only without creating an object of a class.
+*The main() method in Java must be declared public, static and void. If any of these are missing, the Java program will compile but a runtime error will be thrown.

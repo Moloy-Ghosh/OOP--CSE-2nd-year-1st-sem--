@@ -1,0 +1,7 @@
+Properties of Constructor:
+
+1.Constructor has the same name as that of the class it belongs.
+2.Constructor is a special type of method.
+3.It has no return type not even void.
+4.It is called automatically in the main class.
+5.Default constructor (no parameter) and parameterised constructor.
