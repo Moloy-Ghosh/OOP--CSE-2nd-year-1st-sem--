@@ -1,0 +1,4 @@
+final string name;
+
+we won't get access of it from sub class, same for methods.
+also there is final class. For using it, we cannot extend it from other class.
