@@ -7,10 +7,10 @@ package javaapplication87super;
 public class Person {
     String name;
     int age;
-    Person(String nam, int ag)
+    Person(String name, int age)
     {
-        name=nam;
-        age=ag;
+        this.name=nam;
+        this.age=age;
     }
     void display()
     {
