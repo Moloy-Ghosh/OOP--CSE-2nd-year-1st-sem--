@@ -1,0 +1,19 @@
+Abstraction: Abstraction is a process of hiding
+the implemantation details from the user. Only
+the highlighted set of services provided the
+user.
+
+Abstract method:
+1. Abstract method has no body.
+2. It must be ends with semicolon.
+3.It must be in abstract class.
+4.It must be overriden.
+5.It can never be final and static.
+
+.Abstract class: abstract class A{}
+.Abstract can't be instantiated.
+.Abstract class can have abstract and
+ non-abstract method (concrete mthod).
+.If you extend an abstract class you have
+ to use all its abstract method or you have
+ to declare the class as abstract itself.
