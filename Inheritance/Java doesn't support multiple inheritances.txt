@@ -1,1 +1,6 @@
-Java does not support multiple inheritance using class because whenever a sub or child class wants to access the property of two or more parent or super class that have same method, java compiler can't decide which class method it should be inherit.
+Java does not support multiple inheritance using class
+because whenever a sub or child class wants to access
+the property of two or more parent or super class that
+have same method, java compiler can't decide which class
+method it should be inherit.
+It is also called Diamond problem.
