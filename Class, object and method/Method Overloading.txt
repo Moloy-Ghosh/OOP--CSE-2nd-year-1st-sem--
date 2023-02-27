@@ -1,6 +1,9 @@
-Method overloading in java is a feature that allows a class to have more than one method with the same name, but with different parameters.
+Method overloading in java is a feature that allows a class
+to have more than one method with the same name, but with
+different parameters.
 
 Java supports method overloading through two mechanisms:
-
 1.By changing the number of parameters
-2.By changing the data type of parameters Overloading by changing the number of parameters A method can be overloaded by changing the number of parameters.
+2.By changing the data type of parameters Overloading by
+changing the number of parameters A method can be overloaded
+by changing the number of parameters.
