@@ -1,10 +1,10 @@
-package important;
+package javaapp;
 
 /**
  *
  * @author Moloy
  */
-public class Important {
+public class Javaapp {
     public static void main(String[] args) {
         double r;
         r=24/23; //ans: 1
