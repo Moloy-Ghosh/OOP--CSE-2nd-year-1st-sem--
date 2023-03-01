@@ -11,8 +11,7 @@ public class Important {
         r=(double) 24/23; //ans: 1.0434782608695652
         r=(double)(24/23)*4; //ans: 4
         r=(double)(24/23)*(double)4; //ans: 4
-        r=((double)24/23)*(double)4;
-        System.out.println(r);
+        r=((double)24/23)*(double)4; ////ans: 4.173913043478261
     }
     
 }
