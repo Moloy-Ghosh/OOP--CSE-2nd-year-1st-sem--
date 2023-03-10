@@ -49,7 +49,7 @@ public class Error {
         {
            y=a[3];
         }
-        catch (ArrayIndexOutOfBoundsException e)
+        catch (ArrayIndexOutOfBoundsException e) //We know the type
         {
             System.out.println("For 4th block:");
             System.out.println(e);
@@ -58,3 +58,20 @@ public class Error {
     }
     
 }
+
+
+/*
+Output:
+
+For 1st block:
+java.lang.ArithmeticException: / by zero
+
+For 2nd block:
+java.lang.ArithmeticException: / by zero
+
+For 3rd block:
+java.lang.ArrayIndexOutOfBoundsException: 3
+
+For 4th block:
+java.lang.ArrayIndexOutOfBoundsException: 3
+*/
