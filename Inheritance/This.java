@@ -9,7 +9,7 @@ public class Person {
     int age;
     Person(String name, int age)
     {
-        this.name=nam;
+        this.name=name;
         this.age=age;
     }
     void display()
