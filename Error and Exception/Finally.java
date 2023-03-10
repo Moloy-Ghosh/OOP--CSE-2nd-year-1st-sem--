@@ -1,10 +1,10 @@
-package multiplecatch;
+package finally;
 
 /**
  *
  * @author Moloy
  */
-public class MultipleCatch {
+public class Finally {
     public static void main(String[] args) {
         int a[]={5,10};
         try{
