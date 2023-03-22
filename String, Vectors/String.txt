@@ -1,0 +1,4 @@
+String is a sequence of character in normal program.
+
+But in java string is an object  of sequence of character,
+which is not character array and is not null terminated!
