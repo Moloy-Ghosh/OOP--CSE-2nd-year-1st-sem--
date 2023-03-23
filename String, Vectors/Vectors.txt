@@ -1,0 +1,21 @@
+1. A vector can be declared without specifying any size
+explicitly. A vector without size can accommodate an
+unknown number of items. Even, when a size is specified,
+this can be overlooked and a different number of items
+may be put into the vector. Remember, in contrast, an array
+must always have its size specified.
+
+2. It is convenient to use vectors to store objects.
+
+3. A vector can be used to store a list of objects that
+may vary in size.
+
+4. We can add and delete objects from the list as and when
+required.
+
+Vector feature can also be achieved in java through the use
+of the Vector class contained in the java.util.package. This
+class can be used to create a generic dynamic array known as
+vector that can hold objects of any type and any number. The 
+objects do not have to be homogeneous. Array can be easily 
+implemented as vectors.
