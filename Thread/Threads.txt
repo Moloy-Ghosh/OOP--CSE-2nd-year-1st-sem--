@@ -1,0 +1,21 @@
+(All main programs in our earlier examples can
+be called single-threaded programs. Every program
+will have at last one thread.)
+
+Threads in java are subprograms of a main application
+program and share the same memory space, they are 
+known as lightweight threads or lightweight processes.
+'Threads running in parallel' does not really mean
+that they actually run at the same time.Since all the
+threads are running on a single processor, the flow 
+of execution is shared between the threads.
+Multithreading is a powerful programming tool that
+makes java distinctly different from its fellow
+programming languages. Multithreading is useful in a
+number of ways. It enabes programmers to do multiple 
+things at one time. They can divide a long program
+(containing operations that are conceptually 
+concurrent) into threads and execute them in parallel.
+For example, we can send tasks such as printing into 
+the background and continue to perform some other task
+in the foreground.
