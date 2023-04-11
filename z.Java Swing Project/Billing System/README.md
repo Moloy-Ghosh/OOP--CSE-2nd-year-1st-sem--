@@ -1,5 +1,10 @@
 <p> This is a billing system app.</p>
 <br>
-<br>
-<p>First page: where you have to give username and password. (Thugh you can user anything! and click log in)</P>
+<p>First page: where you have to give username and password. (Thugh you can user anything! and click log in to go to next paga.)</P>
 <img src="Screenshots/1st page.png" width=100%/>
+<br>
+<p>Second page: Full up everything and click Submit to go to next page and you can reset this UI clicking reset button.</p>
+<img src="Screenshots/2nd page.png" width=100%/>
+<br>
+<p>Third page: You will see details of the product and customer. Click exit to close the app, click go back to go to the second page and if you want to print (though this buttion doesn't work) click print.</p>
+<img src="Screenshots/3rd page.png" width=100%/>
