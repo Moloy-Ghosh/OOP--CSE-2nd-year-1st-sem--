@@ -1,4 +1,4 @@
-<p> This is a billing system app. The idea for this project came entirely from me. I userd Google to find some methods and understand it that would make it useful.</p>
+<p> This is a billing system app. The idea for this project came entirely from me. I userd Google to find some methods and understand it that made it useful.</p>
 <p> To run this app on your computer on NetBeans take "BillingSystem" folder from here and keep it in your computer's "NetBeansProjects" folder.</p>
 <br>
 <p>First page: where you have to give username and password. (Thugh you can give anything in the field! and click log in to go to next paga.)</P>
