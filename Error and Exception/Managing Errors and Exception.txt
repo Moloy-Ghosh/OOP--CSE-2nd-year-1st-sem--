@@ -1,0 +1,33 @@
+All syntex errors will be detected and displayed by the
+java compiler and therefore these errors are known as 
+compile-time errors. Whenever the compiler displays an error,
+it will not create the class file.
+
+Run-Time Errors:
+Sometimes, a program may compile successfully creating 
+the class file but may not run properly. Such programs 
+may produce wrong result due to wrong logic or may terminate
+due to errors such as stack overfllow. Most common run-time
+errors are:
+-Dividing an integer by zero
+-out of the bounds of an array
+-
+-
+-
+ 
+Exceptions:
+An exception is a condition that is caused by a run-time error 
+in the program. When the java interpreter encounters an error
+such as dividing an integer by zero, it creates an exception
+object and throws it. If the exception object is not caught 
+and handled properly, the interpreter will display an error
+message.
+
+Exception in java can be catagorized into two types:
+1. Checked Exceptions: These exceptions are explicity handled
+in the code itself with the help of try-catch block. Checked
+exceptions extended from the java.lang.Exception class.
+2. Unchecked exceptions: These exceptions are not essentially
+handled in the program code; instead the JVM handles such 
+exceptions. Unchecked exceptions are extended from the 
+java.lang.RuntimeException class.
