@@ -1,0 +1,21 @@
+Applets are small java programs that are primarily used in 
+internet computing. They can be transported over the internet
+from one computer to another and run the Applet Viewer or any
+web browser that supports java. It can perform arithmetic
+operation, display graphics, play sounds, accept user input,
+create animation and play interactive games. 
+
+Local and remote Applets
+
+package javaapplication110;
+import java.awt.*;
+import java.applet.*;
+/**
+ *
+ * @author Moloy
+ */
+public class APPLET extends Applet {
+    public void paint (Graphics q){
+        q.drawString("Moloy Ghosh", 100, 100);
+    }
+}

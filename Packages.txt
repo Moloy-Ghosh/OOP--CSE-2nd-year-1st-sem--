@@ -1,0 +1,4 @@
+Packages are java's way of grouping a variety of
+classes and/or interfaces together. The grouping
+is usally done according to functionality. In fact
+packages acts as "container" for classes.
