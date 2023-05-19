@@ -1,0 +1,6 @@
+An interface is basically a kind of class. Like classes,
+interfaces contain methods and variables but with a major
+difference. The difference is that interfaces define only 
+abstract methods and final fields. This means that interfaces
+do not specify any code to implement these methos and data
+fields contain only constants.
