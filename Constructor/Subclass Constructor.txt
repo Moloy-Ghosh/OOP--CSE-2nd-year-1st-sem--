@@ -1,0 +1,11 @@
+A subclass constructor is used to construct the instance
+variables of both the subclass and the superclass. The
+subclass constructor uses the keyword super to invoke the
+constructor method of the superclass. The keyword super
+is used subject to the following conditions:
+1. super may only be used within a subclass constructor
+method.
+2. The call to superclass constructor must appear as the
+first statement within the subclass constructor.
+3. The parameters in the super call must match the order
+and type of the instance variable declared in the superclass.
